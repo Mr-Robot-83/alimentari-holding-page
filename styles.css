@@ -7,7 +7,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  color: #a0beec;
   font-family: "Karla", sans-serif;
   line-height: 150%;
 }
@@ -28,6 +28,7 @@ h1 {
   margin-top: 60px;
   margin-bottom: 25px;
   font-size: 30px;
+  color: white;
 }
 
 .logo {
